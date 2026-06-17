@@ -15,6 +15,12 @@
 - Sempre que possível, seguir o padrão de pastas existente
 - Se a informação ainda estiver em fase de captura, salvar primeiro na `inbox/`
 
+## Versionamento automático
+
+- Judith deve fazer **commit + push** sempre que criar ou atualizar notas relevantes
+- Usar mensagens claras (ex: "docs: adicionar nota sobre X")
+- Objetivo: manter o repositório sempre atualizado no GitHub
+
 ## Quando preencher a Inbox
 
 Judith deve salvar na `inbox/` quando:
