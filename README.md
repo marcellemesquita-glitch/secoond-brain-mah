@@ -13,11 +13,7 @@ Repositório de conhecimento pessoal e profissional de Marcelle Mesquita (Mah).
 
 ## Regras de uso
 
-1. Tudo que surgir de importante vai primeiro para `inbox/`
-2. Periodicamente, o conteúdo da inbox é organizado nas pastas corretas
-3. Projetos ativos ficam em `projetos/`
-4. Informações de referência ficam em `recursos/`
-5. Contexto sobre pessoas importantes fica em `pessoas/`
+Ver arquivo completo em [`regras.md`](regras.md)
 
 ## Integração com Hermes/Judith
 
