@@ -47,6 +47,17 @@ O valor principal parece estar em:
 ## Hipótese inicial de proposta
 Uma plataforma interna para centralizar briefing, histórico, participação, evolução, sinais de risco e próximos passos de cada cliente, permitindo que o time acompanhe a jornada com consistência, visão compartilhada e ação proativa.
 
+## Regras e contexto operacional adicionais
+- Todos os mentores podem ter contato com todos os mentorados
+- Os agendamentos das mentorias são feitos via Google Meet
+- Existem também plantões em grupo, nos quais pode haver mais de um mentorado ao mesmo tempo
+
+## Implicações para o desenho da plataforma
+- O relacionamento cliente ↔ mentor não é estritamente 1:1; precisa suportar acompanhamento compartilhado
+- A plataforma deve lidar tanto com encontros individuais quanto com encontros em grupo
+- Registros de presença, participação e histórico precisam considerar sessões com múltiplos mentorados
+- Integrações ou referências de agenda/reunião provavelmente devem considerar o fluxo via Meet
+
 ## Possíveis módulos iniciais mencionados/derivados da conversa
 - ficha do cliente
 - briefing de entrada
