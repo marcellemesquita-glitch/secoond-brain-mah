@@ -34,6 +34,29 @@ A função central da plataforma seria:
 - acompanhamento de desempenho/evolução
 - leitura de risco de churn
 - apoio ao time para agir com mais consistência
+- aproveitamento das gravações das mentorias como fonte adicional de contexto e insights
+
+## Dados já disponíveis por mentorado
+- briefing preenchido na entrada
+- gravações de todas as mentorias, que podem servir para extrair contexto, evolução, dúvidas recorrentes e sinais de risco
+
+## Eventos principais a registrar
+- participação em mentoria individual
+- participação em mentoria em grupo / plantão
+- conquistas e marcos relevantes
+- ausência recorrente ou sumiço das mentorias
+- avaliação de desempenho/resultado dada pelos mentores
+
+## Sinais de atenção / risco já mencionados
+- cliente não aparece mais nas mentorias
+- cliente não está desempenhando bem em relação aos resultados
+- mentores podem atribuir notas de resultado como insumo para leitura de saúde
+
+## Ideia atual de tela principal
+- mentorados ativos
+- próximos encontros da agenda dos mentores
+- clientes em risco
+- espaço para sugestões e priorização de ações
 
 ## Leitura estratégica inicial
 Essa ideia se parece menos com “uma ferramenta com IA” e mais com um **hub operacional e relacional do cliente**.
