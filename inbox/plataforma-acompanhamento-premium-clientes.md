@@ -92,13 +92,95 @@ Uma plataforma interna para centralizar briefing, histórico, participação, ev
 - risco de churn
 - próximos passos
 
+## MVP definido nesta etapa
+
+### Objetivo do MVP
+Permitir que o time:
+- veja os mentorados ativos
+- acompanhe os próximos encontros
+- registre participação real
+- identifique clientes em risco
+- tenha um lugar único com briefing + contexto básico
+
+### O que entra no MVP
+
+#### 1. Cadastro do mentorado
+- nome
+- empresa
+- data de entrada
+- mentor principal
+- outros mentores com contato
+- briefing de entrada
+- status: ativo / pausado / encerrado
+- risco atual: baixo / médio / alto
+- motivo do risco
+- última participação
+
+#### 2. Integração com Google Calendar
+- puxar encontros da agenda
+- mostrar título do evento
+- data/hora
+- link do Meet
+- mentor responsável ou mentores
+- tipo do encontro: individual / grupo
+
+**Regra:** o Calendar organiza a agenda, mas não define presença automaticamente.
+
+#### 3. Registro de participação
+**Em encontro individual:**
+- apareceu? sim / não
+- observação rápida
+- nota de engajamento
+- nota de evolução
+
+**Em encontro em grupo:**
+- quais mentorados participaram
+- observação rápida geral
+- opcionalmente nota rápida por mentorado
+
+#### 4. Sinalização de risco
+- risco: baixo / médio / alto
+- motivo
+- próxima ação sugerida
+
+#### 5. Registro de conquistas
+- data
+- mentorado
+- conquista
+- observação curta
+
+### Tela principal do MVP
+- mentorados ativos
+- próximos encontros
+- clientes em risco
+- clientes sem participação recente
+- conquistas recentes
+
+### O que fica fora do MVP
+- score automático complexo
+- IA analisando tudo desde o dia 1
+- painel analítico avançado
+- automações de follow-up
+- portal do cliente
+- CRM completo
+- transcrição automática obrigatória
+- detecção automática de churn
+- dezenas de tipos de evento
+- dashboards muito sofisticados por mentor
+
+### Regras operacionais mantidas
+- todos os mentores podem ter contato com todos os mentorados
+- encontros individuais e plantões em grupo precisam coexistir no modelo
+- em grupo não existe convite por email para cada mentorado; o link é enviado no grupo e entra quem quiser
+- a presença é marcada manualmente pelo mentor
+
 ## Próximo passo futuro
 Retomar esta ideia depois para aprofundar:
 - visão de produto
-- MVP
-- módulos principais
-- papel da IA
-- diferenciais da experiência premium
+- telas do MVP
+- backlog de funcionalidades
+- papel futuro da IA na plataforma
+- arquitetura/stack quando chegar a hora de construir
 
 ---
 
