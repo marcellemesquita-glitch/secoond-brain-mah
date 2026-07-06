@@ -49,8 +49,9 @@ Estas frentes merecem acompanhamento recorrente:
 - **Enviar os convites para todos os convidados do casamento**
 - **Escolher o local e vestido para ensaio fotográfico**
 
-## Checklist base já capturado
+## Checklist base consolidado da inbox
 
+Itens já capturados e consolidados aqui:
 - Buffet e pagamento
 - Buquê
 - Documentos da lua de mel
